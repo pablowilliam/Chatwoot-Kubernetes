@@ -123,7 +123,7 @@ spec:
     targetPort: 3000
   type: NodePort
 
-´´´´
+´´´
 
 Apply the deployment:
 
