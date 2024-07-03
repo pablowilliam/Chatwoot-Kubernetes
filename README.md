@@ -18,4 +18,5 @@ sudo systemctl start docker
 
 # Add current user to the Docker group
 sudo usermod -aG docker $USER
-
+```
+Step 2: Install Minikube
