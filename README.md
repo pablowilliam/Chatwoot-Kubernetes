@@ -349,7 +349,7 @@ Replace your-email@example.com and yourdomain.example.com with your actual email
 
 chmod +x deploy_chatwoot.sh
 
-´´´
+```
 Run the script:
 
 ```bash
