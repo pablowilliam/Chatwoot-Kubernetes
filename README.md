@@ -217,6 +217,7 @@ kubectl apply -f cluster-issuer.yaml
 # Final Script
 Save the following script as deploy_chatwoot.sh and run it:
 
+´´´bash
 #!/bin/bash
 
 # Update the package list and install dependencies
