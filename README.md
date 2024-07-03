@@ -1,5 +1,5 @@
 # Chatwoot-Kubernetes
-Chatwoot gives you all the tools to manage conversations, build relationships and delight your customers from one place.
+Create a Chatwoot instance with 5 Repilcas using Dookcer and minicube for study.
 
 # Step-by-Step Guide
 
