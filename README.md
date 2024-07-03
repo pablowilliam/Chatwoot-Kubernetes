@@ -125,12 +125,11 @@ spec:
 
 ´´´
 
-Apply the deployment:
+```
+Apply the ingress:
 
 ```bash
-
-kubectl apply -f chatwoot-deployment.yaml
-
+kubectl apply -f chatwoot-ingress.yaml
 ```
 
 # Step 9: Create Ingress Resource
