@@ -20,4 +20,3 @@ sudo systemctl start docker
 # Add current user to the Docker group
 sudo usermod -aG docker $USER
 
-``bash
