@@ -87,6 +87,7 @@ helm install ingress-nginx ingress-nginx/ingress-nginx
 Create a file named chatwoot-deployment.yaml with the following content:
 
 ```bash
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -121,6 +122,7 @@ spec:
     port: 80
     targetPort: 3000
   type: NodePort
+
 ´´´´
 
 Apply the deployment:
