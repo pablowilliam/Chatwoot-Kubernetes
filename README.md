@@ -217,7 +217,8 @@ kubectl apply -f cluster-issuer.yaml
 # Final Script
 Save the following script as deploy_chatwoot.sh and run it:
 
-´´´bash
+```bash
+
 #!/bin/bash
 
 # Update the package list and install dependencies
@@ -339,6 +340,7 @@ spec:
         ingress:
           class: nginx
 EOF
+
 ```
 
 Replace your-email@example.com and yourdomain.example.com with your actual email address and domain name, respectively. Save the script and make it executable:
