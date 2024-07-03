@@ -121,7 +121,6 @@ spec:
     port: 80
     targetPort: 3000
   type: NodePort
-
 ´´´´
 
 Apply the deployment:
