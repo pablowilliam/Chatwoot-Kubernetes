@@ -6,7 +6,7 @@ Chatwoot gives you all the tools to manage conversations, build relationships an
 Step 1: Install Docker
 
 ```bash
-Update the package list
+# Update the package list
 ```bash
 sudo apt update
 ```bash
@@ -19,4 +19,5 @@ sudo systemctl start docker
 
 # Add current user to the Docker group
 sudo usermod -aG docker $USER
+
 ```bash
