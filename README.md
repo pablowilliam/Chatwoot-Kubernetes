@@ -172,6 +172,7 @@ kubectl apply -f chatwoot-ingress.yaml
 
 # Step 10: Install Cert-Manager for SSL
 
+```bash
 # Add the Jetstack Helm repository
 helm repo add jetstack https://charts.jetstack.io
 
