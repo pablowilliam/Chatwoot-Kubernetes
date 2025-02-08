@@ -95,7 +95,7 @@ metadata:
   labels:
     app: chatwoot
 spec:
-  replicas: 5
+  replicas: 1
   selector:
     matchLabels:
       app: chatwoot
@@ -106,7 +106,7 @@ spec:
     spec:
       containers:
       - name: chatwoot
-        image: chatwoot/chatwoot:latest
+        image: sendingtk/chatwoot:v3.13.8
         ports:
         - containerPort: 3000
 ---
