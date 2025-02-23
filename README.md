@@ -361,7 +361,6 @@ Run the script:
 This script installs Docker, Minikube, Kubectl, Helm, deploys Chatwoot on Kubernetes with 5 replicas, sets up an Nginx Ingress Controller, installs Cert-Manager for SSL, and config.
 
 
-```
 
 ## Apoie este projeto ☕  
 
